@@ -1,3 +1,13 @@
+# About the repository
+Original website - https://main--sky-clock.netlify.app/ <br/>
+This site has been partially translated into Ukrainian <br/>
+
+--
+• https://wikiskyy.github.io/time ↓<br/>
+• https://wikiskyy.pp.ua/time ↓<br/>
+• https://time.wikiskyy.pp.ua/ <br/>
+
+
 # Your Favicon Package
 
 This package was generated with [RealFaviconGenerator](https://realfavicongenerator.net/) [v0.16](https://realfavicongenerator.net/change_log#v0.16)
