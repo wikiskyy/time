@@ -2,7 +2,7 @@
 Original website - https://main--sky-clock.netlify.app/ <br/>
 This site has been partially translated into Ukrainian <br/>
 
---
+---
 • https://wikiskyy.github.io/time ↓<br/>
 • https://wikiskyy.pp.ua/time ↓<br/>
 • https://time.wikiskyy.pp.ua/ <br/>
