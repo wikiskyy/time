@@ -1,0 +1,6 @@
+body {
+    background: #c7b39b url(https://i.pinimg.com/originals/da/bb/3e/dabb3e3f4dbd9ff61b5b42f2359d8979.png); /* Колір фону та шлях до файлу */
+    background-size: cover; /* Масштабуємо фон */
+    background-attachment: fixed;  /* Фіксуємо фон веб-сторінки */
+    background-position: top; /* фон по центру */
+   }
